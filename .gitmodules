@@ -4,3 +4,9 @@
 [submodule "luci-app-mentohust"]
 	path = luci-app-mentohust
 	url = git@github.com:BoringCat/luci-app-mentohust.git
+[submodule "mentohust"]
+	path = mentohust
+	url = https://github.com/hyrathb/mentohust.git
+[submodule "OpenClash"]
+	path = OpenClash
+	url = https://github.com/vernesong/OpenClash.git
