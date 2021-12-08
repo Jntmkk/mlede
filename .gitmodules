@@ -10,3 +10,6 @@
 [submodule "luci-app-unblockneteasemusic"]
 	path = luci-app-unblockneteasemusic
 	url = https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
+[submodule "OpenClash"]
+	path = OpenClash
+	url = https://github.com/Jntmkk/OpenClash.git
