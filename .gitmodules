@@ -1,9 +1,9 @@
 [submodule "xmurp-ua"]
 	path = xmurp-ua
-	url = git@github.com:CHN-beta/xmurp-ua.git
+	url = https://github.com/CHN-beta/xmurp-ua.git
 [submodule "luci-app-mentohust"]
 	path = luci-app-mentohust
-	url = git@github.com:BoringCat/luci-app-mentohust.git
+	url = https://github.com/hyrathb/mentohust.git
 [submodule "mentohust"]
 	path = mentohust
 	url = https://github.com/hyrathb/mentohust.git
