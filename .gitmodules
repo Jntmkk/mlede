@@ -7,6 +7,6 @@
 [submodule "mentohust"]
 	path = mentohust
 	url = https://github.com/hyrathb/mentohust.git
-[submodule "OpenClash"]
-	path = OpenClash
-	url = https://github.com/vernesong/OpenClash.git
+[submodule "luci-app-unblockneteasemusic"]
+	path = luci-app-unblockneteasemusic
+	url = https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
