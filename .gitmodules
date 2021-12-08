@@ -3,7 +3,7 @@
 	url = https://github.com/CHN-beta/xmurp-ua.git
 [submodule "luci-app-mentohust"]
 	path = luci-app-mentohust
-	url = https://github.com/hyrathb/mentohust.git
+	url = https://github.com/BoringCat/luci-app-mentohust.git
 [submodule "mentohust"]
 	path = mentohust
 	url = https://github.com/hyrathb/mentohust.git
