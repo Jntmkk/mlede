@@ -1,0 +1,6 @@
+[submodule "xmurp-ua"]
+	path = xmurp-ua
+	url = git@github.com:CHN-beta/xmurp-ua.git
+[submodule "luci-app-mentohust"]
+	path = luci-app-mentohust
+	url = git@github.com:BoringCat/luci-app-mentohust.git
